@@ -14,3 +14,8 @@ A program to check the connectivity to a specific website.
 ## Desktop Application Version
 This is the Desktop Application version of the single URL connectivity program. User can choose to check the status of an URL and 
 also can run the background process to frequently check if the URL cannot be connect at the moment. The program will run in the background and send Desttop notification to user when the site can be reached.
+
+<p align="center">
+<img src="https://github.com/QueAnhHa/site-connectivity-checker/blob/main/Desktop%20Application/site-connectivity-checker.png" width="500" title="site-check">
+</p>
+
