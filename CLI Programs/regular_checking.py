@@ -2,7 +2,7 @@
 """Run regular checking connectivity as a background propcess separated 
    from the main program. This process will run by itself and finishes when 
    all URLs in the database can be connected successfully.There is a scheduler
-   for cleaning up database which will delete all URL in db every 5 days, thus will
+   for cleaning up database which will delete all URLs in db every 5 days, thus will
    automatically stop the process."""
    
 import sched, time

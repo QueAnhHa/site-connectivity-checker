@@ -21,7 +21,7 @@ def check_valid_url(url):
 
 
 def notify(title, message):
-    """Push Desktop notifiacation"""
+    """Push Desktop Notification"""
     os.system("""
                 osascript -e 'display notification "{}" with title "{}"'
                 """.format(message, title))
